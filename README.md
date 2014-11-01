@@ -1,6 +1,23 @@
+# AngularJS Helpful Links
+
+> See the [original article](http://blog.machula.info/angularjs-helpful-links/) on my blog
+
 During the work with this awesome framework I have accumulated a large number of interesting articles, tutorials, resources and tools. Now I share the best of them with you with a hope that they will bring you a benefit too.
 
 Enjoy AngularJS!
+
+## Table of Contents
+1. [Beginning](#beginning)
+2. [Building](#building)
+3. [Articles](#articles)
+4. [Series](#series)
+5. [Cources, videos and books](#cources-videos-and-books)
+6. [Communities & News](#communities--news)
+7. [Best practices & Style guides](#best-practices--style-guides)
+8. [Tools](#tools)
+9. [Versions](#versions)
+10. [Conferences](#conferences)
+11. [Lists of resources](#lists-of-resources)
 
 ## Beginning
 1. Official AngularJS [Tutorial](https://docs.angularjs.org/tutorial) + [Developer Guide](https://docs.angularjs.org/guide)
